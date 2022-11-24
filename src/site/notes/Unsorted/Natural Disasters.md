@@ -21,26 +21,13 @@ modified: 2022-11-23 07:18:52
 
 
 
----
-topic: Wildfires
-class: env
-type: 
-week: 5
-weekday: Mo
-date: 2022-09-19**cetylsalicylic acid** (**ASA**)
-semester: F2022
-dg-publish: true
-aliases: ["fires","fire","Pyrogenic"]
-created: 2022-09-19 11:38:30
-modified: 2022-11-23 07:18:51
----
+
 
 
 - [[Unsorted/California\|California]] used to burn every 5-7 years
 - Once Europeans arrived, we started preventing and surpressing fires
 	- Which has resulted in a large accumulation of flammable brush
 	- And a large increase in wildfire intensity
-
 
 ### Firescaping
 - Can mitigate damage from small fires
