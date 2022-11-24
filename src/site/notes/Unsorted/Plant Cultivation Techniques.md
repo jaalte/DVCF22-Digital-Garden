@@ -1,16 +1,7 @@
----
-# topic: 
-class: hort
-type: stub
-week: 3
-weekday: We
-date: 2022-09-07
-semester: F2022
-dg-publish: true
-aliases: ["Agriculture","Plant propagation","farming","farm"]
-created: 2022-09-12 11:22:45
-modified: 2022-11-23 07:18:52
 ---
+{"dg-publish":true,"permalink":"/unsorted/plant-cultivation-techniques/"}
+---
+
 
 ## Irrigation
 - Most irrigation systems are made on contract
