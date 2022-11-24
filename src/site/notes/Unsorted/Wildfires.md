@@ -9,7 +9,6 @@
 	- Which has resulted in a large accumulation of flammable brush
 	- And a large increase in wildfire intensity
 
-
 ### Firescaping
 - Can mitigate damage from small fires
 	- But sometimes the really intense ones are unavoidable
