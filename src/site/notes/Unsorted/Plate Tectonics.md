@@ -1,15 +1,7 @@
----
-topic: Plate tectonics 
-class: geo
-type: notes
-week: 1
-weekday: Th
-date: 2022-08-25, 2022-09-06
-dg-publish: true
-aliases: ["Tectonic plates","Convergent plate boundary","Convergent plate boundary","Convergent plate boundary"]
-created: 2022-09-12 11:22:54
-modified: 2022-11-23 07:18:51
 ---
+{"dg-publish":true,"permalink":"/unsorted/plate-tectonics/"}
+---
+
 
 [[Unsorted/Faults\|Faults]]
 
