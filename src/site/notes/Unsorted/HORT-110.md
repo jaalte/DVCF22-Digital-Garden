@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/unsorted/hort-110/"}
----
+dg-publish: true
 
+kanban-plugin: basic
+class: hort
+aliases:
+  - Hort Class
+created: 2022-09-12 11:23:00
+
+modified: 2022-11-23 07:18:52
+---
 
 ## Index
 
