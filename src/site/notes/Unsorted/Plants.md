@@ -33,6 +33,7 @@
 
 
 - [[Unsorted/Plant Cultivation Techniques\|Plant Cultivation Techniques]]
+	- [[Unsorted/Aquaponics\|Aquaponics]]
 - [[Unsorted/Plant Nutrition\|Plant Nutrition]]
 - [[Unsorted/Plant hormones\|Plant hormones]]
 - [[Unsorted/Pests\|Pests]]
