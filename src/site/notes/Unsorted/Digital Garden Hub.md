@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-dg-home: true
-created: 2022-11-23 07:11:13
-modified: 2022-11-23 07:18:50
+{"dg-publish":true,"permalink":"/unsorted/digital-garden-hub/","tags":"gardenEntry"}
 ---
+
 
 Hello!
 
