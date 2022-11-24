@@ -1,0 +1,102 @@
+---
+{"dg-publish":true,"permalink":"/unsorted/hort-notes-plant-tissues/"}
+---
+
+
+# Plant Tissues
+
+3 kinds of tissues
+- Dermal
+	- Tissue found on outside of plant
+		- Not underneath bark
+	- Functions
+		- Protect plant from injury and water loss
+		- 
+	- Waxy
+		- Prevents water from being lost
+	- Do not have chloroplasts
+		- Transparent, allows light below
+	- Have trichomes
+		- Hairs that come out of plant, reflect light, act as thorns, emit scents
+		- Produce THC in cannabis
+	- Stomata
+		- Pores where gas exchange happens
+		- Surrounded by guard cells which can open/close the stomata
+	- Inside
+	- Palisade
+- Vascular
+	- Xylem
+		- Carries water upwards from roots to upper tissue
+		- One-way flow
+		- Use capilary action, pressure flow, transpirational flow, and root pressure
+		- Limitations of xylem tissue determine the
+	- Phloem
+		- Carrys the food, two-way
+		- Reverses seasonally
+			- Moves down 
+		- Living tissue, transports soluble compounds
+	- Lower epidermis
+	- Palisade cells
+	- Bundle sheath cells
+- Ground
+	- Parenchyma
+		- Bulk of plant tissue
+		- Soft part of leaves, fruit pulp, other organs
+		- Used for storage and [[Unsorted/Photosynthesis\|photosynthesis]]
+		- Examples
+			- Area inbetween veins and dermis in carrots
+	- Collenchyma
+		- Support tissue with irregular cell walls
+		- Primary component of structural plants
+			- Hemp, cotton
+		- Hemicellulose, cellulose, pectic minerals
+		- Support, structure, mechanical strength
+		- Flexibility to petiole, leaf veins, and stem
+		- Found immediately under epidermis
+		- Can sometimes contain 
+		- Examples
+			- Stretchiness of strands of celery
+	- Sclerenchyma
+		- Support tissue, woody
+		- Hardens tissue, found in many plants
+		- Make bark, nuts, shells, seed coats
+
+- Dermal
+	- Leaf
+		- Blade
+		- Petiole
+			- Stem connecting leaf to branches
+		- Leaf primordium
+			- Usually become leaves
+			- Or flowers if plant is stressed
+				- (PANIC)
+		- Apical bud
+			- Dormant buds on stem that are prepared to grow if the tree is injured
+- Vascular
+	- Stem
+		- Primary trunk of plant
+	- Node
+		- Where new leaves bud off
+		- Trimming of nodes allow botanists to train plants to grow more vertically
+	- Internode
+		- Space inbetween nodes
+		- Length correlated to how healthy the plant is
+- Ground
+	- Transition zone
+		- Dirt should not go above transition zone
+		- Not resistant to soil pathogens
+	- Muscle, roots
+	- Roots
+		- Taproot
+			- Typically dichots
+			- Large central root pillar
+		- Lateral root
+			- Typically monochots
+			- Sideways roots, hold into soil
+		- Root cap
+			- Secretes lubricant and acids that allow them to drill through rocks
+		- Root Apex
+		- Root hairs
+			- Live 1-3 days
+			- Form at the tips of the roots as they're moving into new soil
+
